@@ -20,7 +20,7 @@ All commands run from the repository root in a terminal where `gh` and `az` are 
 ```bash
 setopt interactivecomments 2>/dev/null || true     # zsh: treat "# ..." as a comment (no-op in bash)
 cd ~/IdeaProjects/atdd-orders
-REPO=attila-balogh-biro86/atdd-orders
+REPO=scaler-solutions/atdd-orders
 REQ=REQ-ORD-016
 ```
 
